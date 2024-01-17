@@ -1,0 +1,3 @@
+# cmvs server in docker WIP
+
+Currently a minimal example for issues...
