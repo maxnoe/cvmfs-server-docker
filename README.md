@@ -1,3 +1,8 @@
-# cmvs server in docker WIP
+# cmvs server in docker
 
-Currently a minimal example for issues...
+Run `docker-compose up -d`
+
+
+## Stratu 0 server
+
+To setup a repository and publish changes
